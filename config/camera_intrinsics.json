@@ -1,0 +1,6 @@
+{
+  "_comment_": "Experimental telemetry->epipolar prior. Placeholder drone intrinsics; the real FOV of the capture camera is unknown, so this is a coarse pinhole model from an assumed 75 deg HFOV at the native 1280x720 capture size. Override fx/fy/cx/cy here if calibration becomes available.",
+  "width": 1280,
+  "height": 720,
+  "hfov_deg": 75.0
+}

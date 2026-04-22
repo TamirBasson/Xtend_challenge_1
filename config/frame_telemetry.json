@@ -1,0 +1,284 @@
+{
+  "reference": {
+    "latitude": 32.055649,
+    "longitude": 34.883298,
+    "altitude_m": 0.0
+  },
+  "default_pitch_deg": -45.0,
+  "default_roll_deg": 0.0,
+  "frames": {
+    "2026-02-15_16-25-03_04569.png": {
+      "latitude": 32.055649,
+      "longitude": 34.883298,
+      "altitude_m": 1.7,
+      "altitude_is_agl": true,
+      "heading_deg": 106.0,
+      "pitch_deg": null,
+      "roll_deg": null,
+      "gimbal_pitch_deg": null,
+      "gimbal_yaw_deg": null,
+      "gimbal_roll_deg": null,
+      "timestamp": "16:27:59",
+      "raw_ocr": {
+        "gps": "@ &20 | 63 | LAT: 32.055649 | LON: 34883298 | 20 | 6 | LA1832055649 | L@N 34882298",
+        "altitude": "1.7 | 1.1 | 19.8 | 629 | 1 M | M | KMH | 1.7 | 1.1 | 19.8 | 62% | 1 M | M | Kmh",
+        "home": "106 | 10 m | 120 | 106 | 10 m | 120",
+        "server": "Sl CHARLIE | STBY | Sul BETA | MNF | 15/02/2026 | 16.27.59 | 0:14 | Sl CHARLIE | STBY | Sl BETA | MNF | 15/02/2026 | 16.27.59 | 0.14",
+        "_parsed_speed_kmh": "19.8"
+      },
+      "notes": "ocr:easyocr"
+    },
+    "2026-02-15_16-25-03_04681.png": {
+      "latitude": 32.055553,
+      "longitude": 34.883626,
+      "altitude_m": 4.1,
+      "altitude_is_agl": true,
+      "heading_deg": 130.0,
+      "pitch_deg": null,
+      "roll_deg": null,
+      "gimbal_pitch_deg": null,
+      "gimbal_yaw_deg": null,
+      "gimbal_roll_deg": null,
+      "timestamp": "16:28:03",
+      "raw_ocr": {
+        "gps": "@ 821 | 63 | LAT: 32.055553 | LON: 34.883626 | 821 | 5 | @A8 22055553 | LON;34.828626",
+        "altitude": "4.1 | 3.6 | 35.2 | 679 | 1 M | M | KMH | 4.1 | 3.6 | 35.2 | 67e | 1 M | M | KMh",
+        "home": "130 | 46 m | 120 | 135 | 130 | 46 m | 120 | 135",
+        "server": "Sul CHARLIE | STBY | Sul BETA | MNF | 15/02/2026 | 16.28.03 | 0:18 | 5l CHARLIE | STBY | Sl BETA | MNF | 15/02/2026 | 16.28.03 | 0.18",
+        "_parsed_speed_kmh": "35.2"
+      },
+      "notes": "ocr:easyocr"
+    },
+    "2026-02-15_16-25-03_04709.png": {
+      "latitude": 32.055511,
+      "longitude": 34.883718,
+      "altitude_m": 4.7,
+      "altitude_is_agl": true,
+      "heading_deg": 152.0,
+      "pitch_deg": null,
+      "roll_deg": null,
+      "gimbal_pitch_deg": null,
+      "gimbal_yaw_deg": null,
+      "gimbal_roll_deg": null,
+      "timestamp": "16:28:04",
+      "raw_ocr": {
+        "gps": "( 620 | 8 | LAT: 32.055511 | LON: 34.883718 | LAT: 32.055511 | LON: 34.888718",
+        "altitude": "4.7 | 3.4 | 41.7 | 57% | 1 M | M | KMH | 4.7 | 3.4 | 41.7 | 57% | x M | M | Kmh",
+        "home": "152 | 55 m | 165 | 152 | 55 m | 165",
+        "server": "5ul CHARLIE | STBY | 5ul BETA | MNF | 15/02/2026 | 16.28.04 | 0:19 | Sl CHARLIE | STBY | Sl BETA | MNF | 15/02/2026 | 16.28.04 | 0.19",
+        "_parsed_speed_kmh": "41.7"
+      },
+      "notes": "ocr:easyocr"
+    },
+    "2026-02-15_16-25-03_04752.png": {
+      "latitude": 32.055408,
+      "longitude": 34.838851,
+      "altitude_m": 5.4,
+      "altitude_is_agl": true,
+      "heading_deg": 207.0,
+      "pitch_deg": null,
+      "roll_deg": null,
+      "gimbal_pitch_deg": null,
+      "gimbal_yaw_deg": null,
+      "gimbal_roll_deg": null,
+      "timestamp": "16:28:05",
+      "raw_ocr": {
+        "gps": "@ 822 | 57 | LAT: 32.055408 | LON: 34.838851 | 83 | LAu8 32055408 | LON24888852",
+        "altitude": "5.4 | 4.5 | 27.9 | 449 | 1 M | M | KMH | 5.4 | 4.5 | 27.9 | 44% | 4 M | M | Kmh",
+        "home": "207 | 71 0 | 195 | 207 | 71 /11 | 195",
+        "server": "5ul CHARLIE | STBY | 5ul BETA | MNF | 15/02/2026 | 16.28.05 | 0.21 | 5l CHARLIE | STBY | Sl BETA | MNF | 15/02/2026 | 16.28.05 | 0.21",
+        "_parsed_speed_kmh": "27.9"
+      },
+      "notes": "ocr:easyocr"
+    },
+    "2026-02-15_16-25-03_10305.png": {
+      "latitude": 32.05637,
+      "longitude": 34.888912,
+      "altitude_m": 16.6,
+      "altitude_is_agl": true,
+      "heading_deg": 178.0,
+      "pitch_deg": null,
+      "roll_deg": null,
+      "gimbal_pitch_deg": null,
+      "gimbal_yaw_deg": null,
+      "gimbal_roll_deg": null,
+      "timestamp": "16:31:33",
+      "raw_ocr": {
+        "gps": "@ 620 | 63 | LATB32.056370 | LON: 34.888912 | 20 | LA18 32056370 | LONN 344838922",
+        "altitude": "16.6 | 12.2 | 42.3 | 0% | 1 M | M | KMH | 16.6 | 12.2 | 42.3 | L M | M | KMH",
+        "home": "178 | 108 m | 165 | 178 | 108 m | 165",
+        "server": "5ul CHARLIE | STBY | 5ul BETA | WAYP | 15/02/2026 | 16.31.33 | 3.49 | S.l CHARLIE | STBY | Sl BETA | WAYP | 15/02/2026 | 16.31.33 | 3.49",
+        "_parsed_speed_kmh": "42.3"
+      },
+      "notes": "ocr:easyocr"
+    },
+    "2026-02-15_16-25-03_10404.png": {
+      "latitude": null,
+      "longitude": 34.838912,
+      "altitude_m": 15.9,
+      "altitude_is_agl": true,
+      "heading_deg": 177.0,
+      "pitch_deg": null,
+      "roll_deg": null,
+      "gimbal_pitch_deg": null,
+      "gimbal_yaw_deg": null,
+      "gimbal_roll_deg": null,
+      "timestamp": "16:31:37",
+      "raw_ocr": {
+        "gps": "@ 619 | 83 | LAT8 32055981 | LON: 34,838912 | 19 | LAu: 320559e1 | LON 34888922",
+        "altitude": "15.9 | 12.2 | 42.3 | 0% | 1 M | M | KMH | 15.9 | 12.2 | 42.3 | X M | M | KMH",
+        "home": "177 | 165 | 177 | 77 m | 165",
+        "server": "5ul CHARLIE | STBY | Sul BETA | WAYP | 15/02/2026 | 16.31.37 | 3.52 | Sl CHARLIE | STBY | 5ul BETA | WAYP | 15/02/2026 | 16.31.37 | 3.52",
+        "_parsed_speed_kmh": "42.3"
+      },
+      "notes": "ocr:easyocr"
+    },
+    "2026-02-15_16-25-03_10474.png": {
+      "latitude": 32.055714,
+      "longitude": 34.838912,
+      "altitude_m": 14.5,
+      "altitude_is_agl": true,
+      "heading_deg": 176.0,
+      "pitch_deg": null,
+      "roll_deg": null,
+      "gimbal_pitch_deg": null,
+      "gimbal_yaw_deg": null,
+      "gimbal_roll_deg": null,
+      "timestamp": "16:31:39",
+      "raw_ocr": {
+        "gps": "@ 619 | 5 | LAT: 32.055714 | LON: 34,838912 | &19 | L@Au832055714 | L@Nk 34888922",
+        "altitude": "14.5 | 10.9 | 28.6 | 0% | 1 M | M | KMH | 14.5 | 10.9 | 28.6 | + M | M | KMH",
+        "home": "176 | 70 m | 165 | 176 | 70 m | 165",
+        "server": "5ul CHARLIE | STBY | 5ul BETA | BRAK | 15/02/2026 | 16.31.39 | 3:55 | 5l CHARLIE | STBY | 5.l BETA | BRAK | 15/02/2026 | 16.31.39 | 3.55",
+        "_parsed_speed_kmh": "28.6"
+      },
+      "notes": "ocr:easyocr"
+    },
+    "2026-02-15_16-25-03_10671.png": {
+      "latitude": 32.055664,
+      "longitude": 34.83392,
+      "altitude_m": 14.8,
+      "altitude_is_agl": true,
+      "heading_deg": 236.0,
+      "pitch_deg": null,
+      "roll_deg": null,
+      "gimbal_pitch_deg": null,
+      "gimbal_yaw_deg": null,
+      "gimbal_roll_deg": null,
+      "timestamp": "16:31:47",
+      "raw_ocr": {
+        "gps": "@ 619 | 63 | LAT: 32.055664 | LON: 34833920 | 19 | (Au832055664 | LON 34888920",
+        "altitude": "14.8 | 12.4 | 0.5 | 0% | 1 M | 3M | KMH | 14.8 | 12.4 | 0.5 | k M | M | Kmh",
+        "home": "236 | 70 WW | 225 | 240 | 236 | 0 | 70 mm | 225 | 2440",
+        "server": "5ul CHARLIE | STBY | Sul BETA | HOLD | 15/02/2026 | 16.31.47 | 4.02 | 5l CHARLIE | STBY | Sul BETA | HOLD | 15/02/2026 | 16.31.47 | 4.02",
+        "_parsed_speed_kmh": "0.5"
+      },
+      "notes": "ocr:easyocr"
+    },
+    "2026-02-15_16-25-03_12035.png": {
+      "latitude": 32.05537,
+      "longitude": 34.883885,
+      "altitude_m": 21.03,
+      "altitude_is_agl": true,
+      "heading_deg": 223.0,
+      "pitch_deg": null,
+      "roll_deg": null,
+      "gimbal_pitch_deg": null,
+      "gimbal_yaw_deg": null,
+      "gimbal_roll_deg": null,
+      "timestamp": "16:32:38",
+      "raw_ocr": {
+        "gps": "d &2 | 63 | LATB 32.055370 | LON: 34.883885 | LAT: 32.055370 | LON: 34.888835",
+        "altitude": "2103 | 19.0 | 0.1 | 0% | ~ | M | M | KmH | 21 | 3 | 19 | 0 | O%a_ | M | H",
+        "home": "223 | 76 m | 210 | 76 m' | 210",
+        "server": "@J | 5ul CHARLIE | HOLD | 15/02/2026 | 16.32.38 | 4:59 | GHARLIE | HOLD | 15/02 | 26 | 16332 | 4a59",
+        "_parsed_speed_kmh": "0.1"
+      },
+      "notes": "ocr:easyocr"
+    },
+    "2026-02-15_16-35-56_05934.png": {
+      "latitude": 32.056015,
+      "longitude": 34.889206,
+      "altitude_m": 13.6,
+      "altitude_is_agl": true,
+      "heading_deg": 201.0,
+      "pitch_deg": null,
+      "roll_deg": null,
+      "gimbal_pitch_deg": null,
+      "gimbal_yaw_deg": null,
+      "gimbal_roll_deg": null,
+      "timestamp": "16:39:46",
+      "raw_ocr": {
+        "gps": "@ &18 | 63 | LAT: 32.056015 | LON: 34.889206 | 18 | LA8 3205605 | @@N34889205",
+        "altitude": "13.6 | 9.6 | 43.0 | 0% | 1 M | M | KMH | 13.6 | 9.6 | 43.0 | x M | M | KMH",
+        "home": "201 | 104 m | 195 | 210 | 201 | 104 m | 195 | 210",
+        "server": "5ul DELTA | STBY | 5ul CHARLIE | STBY | 5ul BETA | WAYP | 15/02/2026 | 16.39.46 | 2.03 | Sl DELTA | STBY | Sl CHARLIE | STBY | Sl BETA | WAYP | 15/02/2026 | 16.39.46 | 2.03",
+        "_parsed_speed_kmh": "43.0"
+      },
+      "notes": "ocr:easyocr"
+    },
+    "2026-02-15_16-35-56_06892.png": {
+      "latitude": 32.055763,
+      "longitude": 34.889088,
+      "altitude_m": 11.3,
+      "altitude_is_agl": true,
+      "heading_deg": 221.0,
+      "pitch_deg": null,
+      "roll_deg": null,
+      "gimbal_pitch_deg": null,
+      "gimbal_yaw_deg": null,
+      "gimbal_roll_deg": null,
+      "timestamp": "16:40:23",
+      "raw_ocr": {
+        "gps": "0 620 5 | LAT: | 32.055763 | LON: 34.889088 | (l> & 20 | 5 | LAT: 32.055763 | LON: 34.889088",
+        "altitude": "11.3 | 8.8 | 0.3 | 0% | 1 M | M | KMA | 11.3 | 8,8 | 0.3 | k M | M | Kmh",
+        "home": "221 | 86 m | 210 | 221 | 86 m | 210",
+        "server": "5ul DELTA | BRAK | 5ul CHARLIE | WAYP | 5ul BETA | HOLD | 15/02/2026 | 16.40.23 | 2:39 | Sl DELTA | BRAK | Sl CHARLIE | WAYP | Sl BETA | HOLD | 15/02/2026 | 16.40.23 | 2:39",
+        "_parsed_speed_kmh": "0.3"
+      },
+      "notes": "ocr:easyocr"
+    },
+    "2026-02-15_16-35-56_07849.png": {
+      "latitude": 32.055702,
+      "longitude": 34.83392,
+      "altitude_m": 13.6,
+      "altitude_is_agl": true,
+      "heading_deg": 181.0,
+      "pitch_deg": null,
+      "roll_deg": null,
+      "gimbal_pitch_deg": null,
+      "gimbal_yaw_deg": null,
+      "gimbal_roll_deg": null,
+      "timestamp": "16:40:59",
+      "raw_ocr": {
+        "gps": "@ 816 | 53 | LAT 32055702 | LON: 34833920 | 16 | LA18320055702 | LON 34888920",
+        "altitude": "13.6 | 10.0 | 0.2 | 0% | 1 M | M | KMH | 13.6 | 10.0 | 0.2 | + M | M | KMh",
+        "home": "181 | 70 m | 195 | 181 | 70 m | 195",
+        "server": "EnlCHARLIE | HOLD | 3l BETA | HOLD | Sul DELTA | HOLD | 15/02/2026 | 16.40.59 | 2.56 | CHARLIE | HOLD | 3l BETA | HOLD | Sul DELTA | HOLD | 15/02/2026 | 16.40.59 | 2:56",
+        "_parsed_speed_kmh": "0.2"
+      },
+      "notes": "ocr:easyocr"
+    },
+    "2026-02-15_16-35-56_09763.png": {
+      "latitude": 32.055744,
+      "longitude": 34.839072,
+      "altitude_m": 11.4,
+      "altitude_is_agl": true,
+      "heading_deg": 244.0,
+      "pitch_deg": null,
+      "roll_deg": null,
+      "gimbal_pitch_deg": null,
+      "gimbal_yaw_deg": null,
+      "gimbal_roll_deg": null,
+      "timestamp": "16:42:12",
+      "raw_ocr": {
+        "gps": "@ &19 | 5 | LAT: 32.055744 | LON: 34,839072 | 19 | LA5832055704 | LON34889072",
+        "altitude": "11.4 | 8.3 | 9.2 | 609 | 4 M | M | KMH | 11.4 | 8,3 | 9.2 | 60v | x M | M | Kmh",
+        "home": "244 | 85 0 | 240 | 255 | 244 | 85im | 240 | 2551",
+        "server": "5ul CHARLIE | HOLD | 5ul DELTA | HOLD | 5ul BETA | MNF | 15/02/2026 | 16.42.12 | 4.28 | 5l CHARLIE | HOLD | 5l DELTA | HOLD | Sl BETA | MNF | 15/02/2026 | 16.42.12 | 4.28",
+        "_parsed_speed_kmh": "9.2"
+      },
+      "notes": "ocr:easyocr"
+    }
+  }
+}

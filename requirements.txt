@@ -1,0 +1,17 @@
+numpy>=1.24
+opencv-python>=4.8
+matplotlib>=3.7
+
+# ---- Optional: deep feature-matching pipeline (SuperPoint + LightGlue) ----
+# Only required when running with --method superpoint. The SIFT / classical
+# pipeline works without these.
+#
+# torch>=2.0
+# lightglue @ git+https://github.com/cvg/LightGlue.git
+
+# ---- Optional: SAM2 mask-gating (--use-sam2) -------------------------------
+# Required only when running with --use-sam2. The non-SAM2 paths work without
+# this dependency. Ultralytics auto-downloads the SAM2 checkpoint on first use.
+#
+# ultralytics>=8.3
+# torch>=2.0
