@@ -53,19 +53,11 @@ Deep-only computer vision pipeline for:
 - RANSAC fundamental matrix estimation
 - interactive local-affine point transfer (K-nearest deep matches to the click)
 
-## Example Results
-
-<p align="center">
-  <img src="assets/target_00_2026-02-15_16-25-03_04569.png" alt="Target 00 example" width="80%" />
-  <img src="assets/target_01_2026-02-15_16-25-03_10474.png" alt="Target 01 example" width="80%" />
-  <img src="assets/target_06_2026-02-15_16-25-03_10305.png" alt="Target 06 example" width="80%" />
-  <img src="assets/target_11_2026-02-15_16-35-56_07849.png" alt="Target 11 example" width="80%" />
-  <img src="assets/target_12_2026-02-15_16-35-56_09763.png" alt="Target 12 example" width="80%" />
-</p>
-
 ## Architecture
 
-<img src="assets/architecture.jpg" alt="Architecture diagram" width="700" />
+<div style="text-align: center;">
+  <img src="assets/architecture.jpg" alt="Architecture diagram" width="600" />
+</div>
 
 The system is organized as a linear processing pipeline with one interactive
 endpoint:
@@ -100,6 +92,16 @@ endpoint:
 7. **Visualization and persistence**  
    `src/transfer.py` handles transfer result visualization, while scripts write
    CSV/image artifacts under `outputs/`.
+
+## Example Results
+
+<p align="center">
+  <img src="assets/target_00_2026-02-15_16-25-03_04569.png" alt="Target 00 example" width="80%" />
+  <img src="assets/target_01_2026-02-15_16-25-03_10474.png" alt="Target 01 example" width="80%" />
+  <img src="assets/target_06_2026-02-15_16-25-03_10305.png" alt="Target 06 example" width="80%" />
+  <img src="assets/target_11_2026-02-15_16-35-56_07849.png" alt="Target 11 example" width="80%" />
+  <img src="assets/target_12_2026-02-15_16-35-56_09763.png" alt="Target 12 example" width="80%" />
+</p>
 
 ## Project Structure
 
