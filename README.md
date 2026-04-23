@@ -1,10 +1,66 @@
 # Xtend Challenge 1 - SuperPoint + LightGlue
 
-## Quick Start (Recommended Command)
+## Installation
+
+Virtual environment setup is recommended on all platforms:
+
+```bash
+# Windows PowerShell
+python -m venv .venv
+.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+```
+
+```bash
+# macOS / Linux
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+## Quick Start
+
+1. Install `Git` and `Python 3.10+`.
+2. Clone the repository and enter the project folder:
+
+```bash
+git clone https://github.com/TamirBasson/Xtend_challenge_1.git
+cd Xtend_challenge_1
+```
+
+3. Create and activate a virtual environment (recommended on every machine):
+
+```bash
+# Windows PowerShell
+python -m venv .venv
+.venv\Scripts\Activate.ps1
+```
+
+```bash
+# macOS / Linux
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+4. Upgrade `pip`:
+
+```bash
+python -m pip install --upgrade pip
+```
+
+5. Install the project dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+6. Run the recommended interactive transfer command from the repository root:
 
 ```bash
 python scripts/main_interactive_transfer.py --method superpoint --ransac-method usac_magsac --threshold 0.70 --min-inliers 15 --epipolar-band 10 --source-index 1
 ```
+
+If your system does not expose `python`, use `py` on Windows or `python3` on macOS/Linux for the same commands above.
 
 Parameter guide:
 - `--method superpoint`: uses the SuperPoint + LightGlue pipeline (the only supported method - State of the art models).
@@ -82,13 +138,7 @@ Xtend_challenge_1/
 └── README.md
 ```
 
-## Installation
 
-```bash
-python -m venv .venv
-.venv\Scripts\activate
-pip install -r requirements.txt
-```
 
 ## Dependencies
 
