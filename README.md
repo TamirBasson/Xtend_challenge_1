@@ -56,11 +56,11 @@ Deep-only computer vision pipeline for:
 ## Example Results
 
 <p align="center">
-  <img src="assets/target_00_2026-02-15_16-25-03_04569.png" alt="Target 00 example" width="23%" />
-  <img src="assets/target_01_2026-02-15_16-25-03_10474.png" alt="Target 01 example" width="23%" />
-  <img src="assets/target_06_2026-02-15_16-25-03_10305.png" alt="Target 06 example" width="23%" />
-  <img src="assets/target_11_2026-02-15_16-35-56_07849.png" alt="Target 11 example" width="23%" />
-  <img src="assets/target_12_2026-02-15_16-35-56_09763.png" alt="Target 12 example" width="23%" />
+  <img src="assets/target_00_2026-02-15_16-25-03_04569.png" alt="Target 00 example" width="40%" />
+  <img src="assets/target_01_2026-02-15_16-25-03_10474.png" alt="Target 01 example" width="40%" />
+  <img src="assets/target_06_2026-02-15_16-25-03_10305.png" alt="Target 06 example" width="40%" />
+  <img src="assets/target_11_2026-02-15_16-35-56_07849.png" alt="Target 11 example" width="40%" />
+  <img src="assets/target_12_2026-02-15_16-35-56_09763.png" alt="Target 12 example" width="40%" />
 </p>
 
 ## Architecture
